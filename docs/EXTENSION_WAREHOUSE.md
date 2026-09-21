@@ -1,4 +1,4 @@
-# Trimble Extension Warehouse listing
+﻿# Trimble Extension Warehouse listing
 
 ## Extension title
 Dark Mode for SketchUp
@@ -21,8 +21,14 @@ Developer Tools
 ## Support / notes
 Some third-party extensions that use their own HTML/WebView or custom native UI may keep their original colors. The extension uses Qt 6 integration specific to current Windows versions of SketchUp.
 
-## Português
+## PortuguÃªs
 
-**Título:** Dark Mode for SketchUp
+**TÃ­tulo:** Dark Mode for SketchUp
 
-**Resumo:** Um tema escuro completo para o SketchUp, incluindo menus, barras, bandejas, barra de título, tooltips e viewport 3D.
+**Resumo:** Um tema escuro completo para o SketchUp, incluindo menus, barras, bandejas, barra de tÃ­tulo, tooltips e viewport 3D.
+
+
+## Purchase / licensing
+Official checkout: https://mpago.la/1jYLZ5U
+Paid license required. One-time purchase. Personal license, no expiration, no computer binding. Activation is required after installation.
+

@@ -1,4 +1,4 @@
-# Dark Mode for SketchUp
+﻿# Dark Mode for SketchUp
 
 A professional dark mode extension for SketchUp on Windows, designed to provide a modern, comfortable and visually consistent dark interface while preserving the native SketchUp experience.
 
@@ -33,20 +33,27 @@ See [AGENTS.md](AGENTS.md) for project-specific instructions for Codex and other
 
 ---
 
-# Português
+# PortuguÃªs
 
-Extensão profissional de modo escuro para SketchUp no Windows, criada para oferecer uma interface moderna, confortável e visualmente consistente, preservando a experiência nativa do SketchUp.
+ExtensÃ£o profissional de modo escuro para SketchUp no Windows, criada para oferecer uma interface moderna, confortÃ¡vel e visualmente consistente, preservando a experiÃªncia nativa do SketchUp.
 
 ## Recursos
 
 - Tema escuro para menus, barras de ferramentas, bandejas, widgets e tooltips nativos do Qt.
-- Barra de título escura do Windows por integração com DWM.
+- Barra de tÃ­tulo escura do Windows por integraÃ§Ã£o com DWM.
 - Viewport 3D escuro opcional.
-- Preserva as configurações originais do viewport do modelo ao salvar.
-- Reaplica o tema a elementos de interface criados depois da inicialização.
+- Preserva as configuraÃ§Ãµes originais do viewport do modelo ao salvar.
+- Reaplica o tema a elementos de interface criados depois da inicializaÃ§Ã£o.
 - Tratamento adicional para tooltips Win32 nativos.
-- A preferência do tema é restaurada automaticamente ao iniciar o SketchUp.
+- A preferÃªncia do tema Ã© restaurada automaticamente ao iniciar o SketchUp.
 
 ## Compatibilidade
 
 SketchUp 2024, 2025 e 2026 no Windows.
+
+
+## Purchase
+
+Official one-time payment link (Mercado Pago): https://mpago.la/1jYLZ5U
+Price: US equivalent / one-time purchase. Personal license, no expiration and no computer binding.
+
